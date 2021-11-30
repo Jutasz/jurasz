@@ -1,0 +1,16 @@
+.title {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+.link {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.recipe {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
